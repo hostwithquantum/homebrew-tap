@@ -4,6 +4,12 @@
 brew tap-info hostwithquantum/tap --json
 ```
 
+Install this tap:
+
+```sh
+brew tap hostwithquantum/tap
+```
+
 Currently hosts:
 
  - [Runway CLI](https://www.runway.horse/docs/cli/)
